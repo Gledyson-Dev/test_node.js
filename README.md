@@ -10,10 +10,8 @@ Estrutura simples de API REST
 JavaScript
 Node.js
 Express
-📚 O que aprendi
 
 Nesse projeto pratiquei:
-
 Criação de servidor com Express
 Rotas (GET)
 Respostas em JSON
